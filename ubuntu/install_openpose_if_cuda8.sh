@@ -80,8 +80,8 @@ echo ""
 
 
 echo "------------------------- Downloading OpenPose Models -------------------------"
-executeShInItsFolder "getModels.sh" "./models" ".."
-exitIfError
+#executeShInItsFolder "getModels.sh" "./models" ".."
+#exitIfError
 echo "Models downloaded"
 echo "------------------------- OpenPose Models Downloaded -------------------------"
 echo ""
